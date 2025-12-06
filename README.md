@@ -1,2 +1,2 @@
-# codsoft_task1
+# prodigy task 1
 Landing page
